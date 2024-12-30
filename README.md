@@ -1,2 +1,8 @@
-# Trovix-Ecommerce
-This e-commerce platform, built with React and Vite, enables users to browse and buy electronic accessories. Customers can sign in, manage orders, and track purchases. The Admin Panel allows admins to manage products and view orders. Firebase handles authentication, and Razorpay ensures secure payments.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
